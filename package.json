@@ -1,0 +1,23 @@
+{
+  "name": "subscription-calculator",
+  "version": "1.0.0",
+  "description": "calculator for Cloudveil subscriptions",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvbrian/subscription-calculator.git"
+  },
+  "author": "Brian Penner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvbrian/subscription-calculator/issues"
+  },
+  "homepage": "https://github.com/cvbrian/subscription-calculator#readme",
+  "dependencies": {
+    "alpinejs": "^2.6.0",
+    "tailwindcss": "^1.8.6"
+  }
+}
